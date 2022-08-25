@@ -1,0 +1,6 @@
+#Archivos compilados
+/bin/
+
+#Configuración del proyecto
+*.classpath
+*.project
