@@ -4,3 +4,10 @@
 #Configuración del proyecto
 *.classpath
 *.project
+
+#Carpeta de configuración del proyecto
+/.settings/
+
+#Librerias del proyecto
+jgoodies-forms-1.8.0.jar
+jgoodies-forms-1.8.0-sources.jar
